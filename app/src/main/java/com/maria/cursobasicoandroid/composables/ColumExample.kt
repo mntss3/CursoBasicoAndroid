@@ -17,7 +17,7 @@ fun ColumnExample() {
     Column(modifier = Modifier.size(150.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
         verticalArrangement = Arrangement.SpaceAround) {
-        Text("Hola 1")
-        Text("Hola 2")
+        Text("Hola!")
+        Text("Me llamo María")
     }
 }
